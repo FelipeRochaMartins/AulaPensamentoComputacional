@@ -6,4 +6,4 @@
 </br>
 <hr>
 </br>
-![images](https://github.com/FelipeRochaMartins/AulaPensamentoComputacional/assets/124936645/69237abd-0d6e-45bb-b0a7-ec630460d25f)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLoXgD9Qk4Bvsp6aHgz123Zdj8Ul3V6-yScf36EdyaTcPLg0MzLDHPaQ-X_7IXwCYb6QE&usqp=CAU" alt="Professor que não da nota...">
