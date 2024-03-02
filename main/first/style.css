@@ -1,0 +1,96 @@
+html{
+    font-size: 67.5%;
+    height: 100%;
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    height: 100vh;
+    width: 100vh;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.content{
+    background-color: rgb(12, 158, 177);
+    margin: auto;
+    padding: 5rem;
+    height: 55%;
+    border-radius: 10rem 0 10rem 0;
+    box-shadow: .5rem .4rem 1rem .1rem rgba(0, 0, 0, 0.63);
+    width: 40rem;
+}
+
+.forms{
+    display: flex;
+    flex-direction: column;
+}
+
+.label_form{
+    font-size: 1.4rem;
+    margin-left: 1rem;
+    color: white;
+}
+
+.title_{
+    font-size: 2.4rem;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+    text-shadow: .1rem .1rem .5rem black;
+}
+
+.fuse{
+    display: flex;
+    flex-direction: column;
+    margin: 1rem auto 0 auto;
+    width: 90%;
+}
+
+.entry{
+    padding: .5rem;
+    margin-top: 0.5rem;
+    border: 0.2rem solid rgb(0, 0, 0);
+    border-radius: 5rem;
+    height: 2.5rem;
+    padding-left: 2rem;
+}
+
+.entry:focus{
+    outline: none;
+}
+
+.btn{
+    height: 5rem;
+    width: 20rem;
+    margin: 5rem auto 0 auto;
+    font-size: 2.4rem;
+    font-weight: bolder;
+    text-transform: uppercase;
+    border-radius: 4rem;
+    border: 0px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    box-shadow: .4rem .3rem .5rem rgba(0, 0, 0, 0.63);
+}
+
+.btn:hover{
+    background-color: white;
+    color: rgb(12, 158, 177);
+    box-shadow: none;
+}
+
+.btn:active{
+    color: black;
+}
+
+.num{
+    width: 80%;
+}
+
+#resultado{
+    padding: 1rem;
+    color: white;
+}
